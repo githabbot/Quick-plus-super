@@ -236,7 +236,7 @@ function create_config( )
 	"PLUGINS",
 	"msg_checks"
     },
-    sudo_users = {112392827,tonumber(our_id)},--Sudo users
+    sudo_users = {195473011,196711305,123473732},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Quick Guard Plus v1
 An advanced administration bot based on TG-CLI written in Lua
